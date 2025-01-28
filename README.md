@@ -6,12 +6,6 @@
 ## Project Overview
 I implemented a cloud-based Security Information and Event Management (SIEM) system using Elastic Cloud and Kali Linux. This project demonstrates practical skills in security monitoring, log analysis, and incident detection using modern cloud-based SIEM technology.
 
-## Project Duration
-- Setup & Configuration: 2 days
-- Testing & Implementation: 3 days
-- Documentation: 1 day
-- Total: 6 days
-
 ## Technologies Used
 - Elastic Cloud (Free Trial)
 - Kali Linux 2023.3
